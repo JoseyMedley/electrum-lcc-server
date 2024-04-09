@@ -10,7 +10,7 @@ ElectrumX - Reimplementation of electrum-server
 For a future network with bigger blocks.
 
   :Licence: MIT
-  :Language: Python (>= 3.6)
+  :Language: Python 3.10
   :Author: Neil Booth
 
 Documentation
